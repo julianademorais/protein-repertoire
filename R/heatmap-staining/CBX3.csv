@@ -1,5 +1,5 @@
-cancer,high,medium,low,nd
-breast,1,1,0,0
-colon,1,1,0,0
-melanoma,0,1,0,0
+cancer,nd,low,medium,high
+breast,0,0,1,1
+colon,0,0,1,1
+melanoma,0,0,1,0
 ovary,0,1,1,0
