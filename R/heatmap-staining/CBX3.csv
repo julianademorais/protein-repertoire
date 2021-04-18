@@ -1,5 +1,5 @@
-staining,breast,colon,skin,ovary
-high,1,1,0,0
+staining,ovary,melanoma,colon,breast
+high,0,0,1,1
 medium,1,1,1,1
-low,0,0,1,0
+low,0,1,0,0
 nd,0,0,0,0
