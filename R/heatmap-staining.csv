@@ -2,4 +2,4 @@ staining,breast,colon,melanoma,ovary
 high,1,1,1,1
 medium,1,1,1,1
 low,1,1,1,1
-not detected,1,1,1,1
+ND,1,1,1,1
