@@ -1,0 +1,21 @@
+individual,group,value 
+,Breast,0
+high,Breast,100
+medium ,Breast,20
+low,Breast,0
+not detected,Breast,0
+,Colon,0
+high,Colon,20
+medium ,Colon,90
+low,Colon,0
+not detected,Colon,0
+,Melanoma,0
+high,Melanoma,70
+medium ,Melanoma,40
+low,Melanoma,10
+not detected,Melanoma,0
+,Ovary,0
+high,Ovary,80
+medium ,Ovary,40
+low,Ovary,0
+not detected,Ovary,0
